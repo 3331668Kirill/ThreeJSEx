@@ -30,7 +30,7 @@ function Model(props) {
                                 <div style={{textAlign: "center", fontSize: "26px"}}>Азамат! Поздравляю с Днем рождения</div>
 
                                 <img style={{width: '97%', height: '100%'}}
-                                    src="https://bronk.club/uploads/posts/2022-06/1656211304_1-bronk-club-p-smeshnie-pozdravleniya-30-let-muzhchine-kr-1.jpg" alt=""/>
+                                    src="" alt=""/>
                                 <div style={{textAlign: "center", fontSize: "26px",width: '90%'}}>30 лет — первый серьезный возраст! Пусть все изменения будут</div>
                                 <div style={{textAlign: "center", fontSize: "26px",width: '90%'}}>только позитивными, ведь это не только юбилей, но и самый</div>
                                 <div style={{textAlign: "center", fontSize: "26px",width: '90%'}}>расцвет жизни! Желаю тебе накопления жизненной мудрости,</div>
