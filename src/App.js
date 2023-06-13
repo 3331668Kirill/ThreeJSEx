@@ -6,7 +6,7 @@ import { Html, Environment, useGLTF, ContactShadows, OrbitControls } from '@reac
 function Model(props) {
     const group = useRef()
 
-    const { nodes, materials } = useGLTF('/mac-draco.glb')
+    const { nodes, materials } = useGLTF('/ThreeJSEx/mac-draco.glb')
 
     useFrame((state) => {
         const t = state.clock.getElapsedTime()
